@@ -71,7 +71,7 @@ Sigue estos pasos para ejecutar el proyecto en tu computadora:
 1.  **Clonar el Repositorio:**
     Descarga los archivos o clona el repositorio en tu carpeta de servidor (ej. `C:/xampp/htdocs/`).
     ```bash
-    git clone [https://github.com/Almejiaag203/VOLEDU-Voto-Educativo.git](https://github.com/Almejiaag203/VOLEDU-Voto-Educativo.git)
+    git clone (https://github.com/Almejiaag203/VOLEDU-Voto-Educativo.git)
     ```
 
 2.  **Base de Datos:**
