@@ -1,14 +1,21 @@
-# VOLEDU-Voto-Educativo
-# 🗳️ Sistema de Votación Electrónica
+# 🗳️ VOLEDU - Voto Educativo
 
-Este es un sistema web integral desarrollado para la gestión automatizada de procesos electorales. Permite a los electores emitir su voto de manera digital validando su identidad mediante DNI, y ofrece a los administradores un control total sobre candidatos y resultados en tiempo real.
+![Estado](https://img.shields.io/badge/Estado-Terminado-success?style=for-the-badge)
+![Versión](https://img.shields.io/badge/Versión-v1.0-blue?style=for-the-badge)
+![PHP](https://img.shields.io/badge/Backend-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Frontend-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## 📋 Descripción
+
+Este es un sistema web integral desarrollado para la gestión automatizada de procesos electorales escolares o institucionales. Permite a los electores emitir su voto de manera digital validando su identidad mediante DNI, y ofrece a los administradores un control total sobre candidatos y resultados en tiempo real.
 
 ---
 
 ## ✨ Características Principales
 
 * **🤖 Generación Automática de Usuarios:** El sistema simplifica el registro creando automáticamente las credenciales de acceso. Toma el **nombre** y **apellido** de la persona para generar un nombre de usuario único sin necesidad de configuración manual.
-* **📊 Resultados en Tiempo Real:** El sistema procesa los votos instantáneamente. Apenas se cierra la votación, el conteo y los ganadores se muestran "al toque", sin esperas.
+* **📊 Resultados en Tiempo Real:** El sistema procesa los votos instantáneamente. Apenas se cierra la votación, el conteo y los ganadores se muestran al instante, sin esperas.
 * **👤 Validación por DNI:** Seguridad integrada que asegura que solo los electores empadronados puedan acceder y votar una única vez.
 * **🛡️ Panel Administrativo:** Gestión completa de candidatos, listas electorales y configuración del sistema.
 * **📱 Diseño Intuitivo:** Interfaz amigable y fácil de usar tanto para el votante como para el administrador.
@@ -64,7 +71,7 @@ Sigue estos pasos para ejecutar el proyecto en tu computadora:
 1.  **Clonar el Repositorio:**
     Descarga los archivos o clona el repositorio en tu carpeta de servidor (ej. `C:/xampp/htdocs/`).
     ```bash
-    git clone <(https://github.com/Almejiaag203/VOLEDU-Voto-Educativo)>
+    git clone [https://github.com/Almejiaag203/VOLEDU-Voto-Educativo.git](https://github.com/Almejiaag203/VOLEDU-Voto-Educativo.git)
     ```
 
 2.  **Base de Datos:**
@@ -81,3 +88,4 @@ Sigue estos pasos para ejecutar el proyecto en tu computadora:
 ---
 
 **Desarrollado con fines educativos y profesionales.**
+Copyright © 2025 **TechFusion Data**.
